@@ -2,6 +2,6 @@
 
 I'm a Software Engineer with around 5 years of experience building backend and full-stack applications, mainly using Java and the Spring ecosystem.
 
-💼 BackEnd Engineer at El Corte Inglés
-📍 Based in Madrid, Spain
-🎓 Computer Engineering UPV
+- 💼 Backend Engineer at El Corte Inglés
+- 📍 Based in Madrid, Spain
+- 🎓 Computer Engineering UPV
